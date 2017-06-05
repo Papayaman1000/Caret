@@ -1,23 +1,10 @@
-Caret
+Personal Caret Repackaging
 =====
 
 Caret is a lightweight-but-powerful programmer's editor running as a Chrome
-Packaged App. Inspired by Sublime and built on top of the Ace editing
-component, it offers:
+Packaged App. I want to monkey around with it and truly make it my own; as such, you (yes, you) likely won't have any use for it.
 
--  multiple cursors
--  tabbed editing and retained files
--  syntax highlighting and themes
--  command palette/smart go to
--  hackable, synchronized configuration files
--  project files and folder view
--  fast project-wide string search
-
-More information, links to Caret in the Chrome Web Store, and an
-external package file are available at http://thomaswilburn.net/caret.
-Documentation can be found in the
-`wiki <https://github.com/thomaswilburn/Caret/wiki>`__.
-
+`// Some docs on how to do what I'm doing that I don't feel like deleting----------------------------------------------------`
 You can also load Caret from source code, either to hack around on or
 to try the absolute bleeding edge. You'll need to have Node and NPM
 installed first, then follow these steps:
